@@ -1,12 +1,12 @@
 --[[
-	T-CombatLoggingReminder v1.5 RU Remaster for Turtle WoW
+	T-CombatLoggingReminder v1.18 RU Remaster for Turtle WoW
 	Оригинальный автор: Михаил Палагин (Wht Mst)
 	Основан на: Combat Logging Reminder
 	GitHub: https://github.com/whtmst/T-CombatLoggingReminder
 	
 	Аддон для автоматического напоминания о включении ведения логов боя при входе в рейды
 	и автоматического выключения при выходе из рейда.
-	Последнее обновление: v1.5
+	Последнее обновление: v1.18
 	Протестировано для: Turtle WoW
 ]]--
 
