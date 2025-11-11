@@ -2,6 +2,6 @@
 ## Title: [ |cFFFFFFFFWM|r ] |cFF11A6ECT-CombatLoggingReminder|r |cFF7FFF7Fv1.18|r
 ## Version: 1.18
 ## Author: Mikhail Palagin (Wht Mst)
-## Notes: |cFF11A6ECT-CombatLoggingReminder|r - Automatically reminds you to enable combat logging when entering raids and disables it when leaving. |cff00ff00Turtle WoW|r. Made with love by Wht Mst.
+## Notes: |cFF11A6ECT-CombatLoggingReminder|r - Automatically reminds you to enable combat logging when entering raids and disables it when leaving. Made for |cff00ff00Turtle WoW|r with love by Wht Mst.
 
 T-CombatLoggingReminder.lua
